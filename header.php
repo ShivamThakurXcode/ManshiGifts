@@ -107,7 +107,7 @@
             <div class="header-center">
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4 col-sm-5 col-5">
-                        <a href="index-2.php" class="header-logo">
+                        <a href="index.php" class="header-logo">
                             <img src="assets/media/logo.png" alt="">
                         </a>
                     </div>
@@ -115,7 +115,7 @@
                         <div class="main-menu__nav">
                             <ul class="main-menu__list d-flex justify-content-center gap-32">
                                 <li>
-                                    <a href="index-2.php" class="active">Home</a>
+                                    <a href="index.php" class="active">Home</a>
                                 </li>
                                 <li>
                                     <a href="about.php">About Us</a>
@@ -123,8 +123,8 @@
                                 <li class="dropdown">
                                     <a href="javascript:void(0);">Shop <i class="fa-light fa-chevron-down d-lg-block d-none"></i></a>
                                     <ul class="sub-menu">
-                                        <li><a href="shop-grid.php">Shop Grid</a></li>
-                                        <li><a href="shop-grid-2.php">Shop Grid Sidebar</a></li>
+                                        <li><a href="shop.php">Shop Grid</a></li>
+                                        <li><a href="shop.php">Shop Grid Sidebar</a></li>
                                         <li><a href="product-detail.php">Product Detail</a></li>
                                     </ul>
                                 </li>
@@ -132,7 +132,7 @@
                                     <a href="javascript:void(0);">Blogs <i class="fa-light fa-chevron-down d-lg-block d-none"></i></a>
                                     <ul>
                                         <li><a href="blog.php">Blog</a></li>
-                                        <li><a href="blog-grid.php">Blog Grid</a></li>
+                                        <li><a href="blog.php">Blog Grid</a></li>
                                         <li><a href="blog-detail.php">Blog Detail</a></li>
                                     </ul>
                                 </li>
@@ -149,7 +149,7 @@
                                     <path d="M3 4H21V6H3V4ZM3 11H21V13H3V11ZM3 18H21V20H3V18Z" fill="#0F0F0F"/>
                                 </svg>
                             </div>
-                            <form action="https://uiparadox.co.uk/templates/toys-shop/v2/index.php" method="post" class="search-form">
+                            <form action="#" method="post" class="search-form">
                                 <div class="input-field">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 16 17"
                                         fill="none">
@@ -191,8 +191,7 @@
     </div>
 </header>
 
-<!-- Mobile Navigation -->
-<div class="mobile-nav__container"></div>
+
 
 <!-- Mobile Nav Overlay -->
 <div class="mobile-nav__wrapper">
@@ -204,14 +203,14 @@
             </svg>
         </div>
         <div class="logo-box d-lg-none d-block mb-24">
-            <a href="index-2.php">
+            <a href="index.php">
                 <img src="assets/media/logo.png" alt="Logo">
             </a>
         </div>
         <nav class="main-menu__nav">
             <ul class="main-menu__list">
                 <li>
-                    <a href="index-2.php" class="active">Home</a>
+                    <a href="index.php" class="active">Home</a>
                 </li>
                 <li>
                     <a href="about.php">About Us</a>
@@ -219,8 +218,8 @@
                 <li class="dropdown">
                     <a href="javascript:void(0);">Shop</a>
                     <ul class="sub-menu">
-                        <li><a href="shop-grid.php">Shop Grid</a></li>
-                        <li><a href="shop-grid-2.php">Shop Grid Sidebar</a></li>
+                        <li><a href="shop.php">Shop Grid</a></li>
+                        <li><a href="shop.php">Shop Grid Sidebar</a></li>
                         <li><a href="product-detail.php">Product Detail</a></li>
                     </ul>
                 </li>
@@ -228,7 +227,7 @@
                     <a href="javascript:void(0);">Blogs</a>
                     <ul>
                         <li><a href="blog.php">Blog</a></li>
-                        <li><a href="blog-grid.php">Blog Grid</a></li>
+                        <li><a href="blog.php">Blog Grid</a></li>
                         <li><a href="blog-detail.php">Blog Detail</a></li>
                     </ul>
                 </li>
